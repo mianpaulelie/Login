@@ -1,0 +1,16 @@
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\Log.csprojAssemblyReference.cache
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\Log.AssemblyInfoInputs.cache
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\Log.AssemblyInfo.cs
+C:\Users\S2mianp\source\repos\Log\Log\Log\bin\Debug\netstandard2.0\Log.deps.json
+C:\Users\S2mianp\source\repos\Log\Log\Log\bin\Debug\netstandard2.0\Log.dll
+C:\Users\S2mianp\source\repos\Log\Log\Log\bin\Debug\netstandard2.0\ref\Log.dll
+C:\Users\S2mianp\source\repos\Log\Log\Log\bin\Debug\netstandard2.0\Log.pdb
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\Log.dll
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\ref\Log.dll
+C:\Users\S2mianp\source\repos\Log\Log\Log\obj\Debug\netstandard2.0\Log.pdb
